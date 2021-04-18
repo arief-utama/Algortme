@@ -1,0 +1,2 @@
+# Algortme
+Algoritma berdasarkan nim
